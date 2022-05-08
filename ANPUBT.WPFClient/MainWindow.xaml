@@ -1,0 +1,121 @@
+﻿<Window x:Class="ANPUBT.WPFClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ANPUBT.WPFClient"
+        mc:Ignorable="d"
+        Title="Employee Editor" Height="900" Width="1600">
+    <Window.DataContext>
+        <local:MainWindowViewModel/>
+    </Window.DataContext>
+    <TabControl>
+        <TabItem Header="Employee Editor">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox ItemsSource="{Binding Employees}" SelectedItem="{Binding SelectedEmployee}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="LightBlue" BorderThickness="1">
+                        <StackPanel>
+                    <Label Content="{Binding Name, Mode=OneWay}" ContentStringFormat="Név: {0}"/>
+                            <Label Content="{Binding RestaurantId, Mode=OneWay}" ContentStringFormat="Étterem azonosítója: {0}"/>
+                            <Label Content="{Binding Salary, Mode=OneWay}" ContentStringFormat="Fizetés: azonosítója: {0} Ft"/>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Column="1">
+            <Label Content="Name" Background="LightBlue" Padding="10"/>
+            <TextBox Text="{Binding SelectedEmployee.Name}" Padding="10" Margin="0,0,0,20"/>
+            <Label Content="Restaurant Id" Background="LightBlue" Padding="10"/>
+            <TextBox Text="{Binding SelectedEmployee.RestaurantId}" Padding="10" Margin="0,0,0,20"/>
+            <Label Content="Salary" Background="LightBlue" Padding="10"/>
+            <TextBox Text="{Binding SelectedEmployee.Salary}" Padding="10" Margin="0,0,0,20"/>
+            <Button Content="Create Employee" Command="{Binding CreateEmployeeCommand}" Margin="10" Padding="10"/>
+            <Button Content="Delete Employee" Command="{Binding DeleteEmployeeCommand}" Margin="10" Padding="10"/>
+            <Button Content="Update Employee" Command="{Binding UpdateEmployeeCommand}" Margin="10" Padding="10"/>
+        </StackPanel>
+    </Grid>
+
+        </TabItem>
+
+
+        <TabItem Header="Restaurant Editor">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <ListBox ItemsSource="{Binding Restaurants}" SelectedItem="{Binding SelectedRestaurant}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="LightBlue" BorderThickness="1">
+                                <StackPanel>
+                                    <Label Content="{Binding RestaurantName, Mode=OneWay}" ContentStringFormat="Étterem neve: {0}"/>
+                                    <Label Content="{Binding Rating, Mode=OneWay}" ContentStringFormat="Étterem értékelése {0} Ft"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <StackPanel Grid.Column="1">
+                    <Label Content="Name" Background="LightBlue" Padding="10"/>
+                    <TextBox Text="{Binding SelectedRestaurant.RestaurantName}" Padding="10" Margin="0,0,0,20"/>
+                    <Label Content="Rating" Background="LightBlue" Padding="10"/>
+                    <TextBox Text="{Binding SelectedRestaurant.Rating}" Padding="10" Margin="0,0,0,20"/>
+                    <Button Content="Create Restaurant" Command="{Binding CreateRestaurantCommand}" Margin="10" Padding="10"/>
+                    <Button Content="Delete Restaurant" Command="{Binding DeleteRestaurantCommand}" Margin="10" Padding="10"/>
+                    <Button Content="Update Restaurant" Command="{Binding UpdateRestaurantCommand}" Margin="10" Padding="10"/>
+                </StackPanel>
+            </Grid>
+
+        </TabItem>
+
+
+        <TabItem Header="Guest Editor">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <ListBox ItemsSource="{Binding Guests}" SelectedItem="{Binding Selectedguest}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="LightBlue" BorderThickness="1">
+                                <StackPanel>
+                                    <Label Content="{Binding Name, Mode=OneWay}" ContentStringFormat="Vendég neve: {0}"/>
+                                    <Label Content="{Binding Number, Mode=OneWay}" ContentStringFormat="Vendég telefonszáma: {0}"/>
+                                    <Label Content="{Binding Email, Mode=OneWay}" ContentStringFormat="Vendég email címe: {0}"/>
+                                    <Label Content="{Binding OrderId, Mode=OneWay}" ContentStringFormat="Rendelés azonosítója: {0}"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <StackPanel Grid.Column="1">
+                    <Label Content="Name" Background="LightBlue" Padding="10"/>
+                    <TextBox Text="{Binding Selectedguest.Name}" Padding="10" Margin="0,0,0,20"/>
+                    <Label Content="Number" Background="LightBlue" Padding="10"/>
+                    <TextBox Text="{Binding Selectedguest.Number}" Padding="10" Margin="0,0,0,20"/>
+                    <Label Content="Email" Background="LightBlue" Padding="10"/>
+                    <TextBox Text="{Binding Selectedguest.Email}" Padding="10" Margin="0,0,0,20"/>
+                    <Label Content="Order Id" Background="LightBlue" Padding="10"/>
+                    <TextBox Text="{Binding Selectedguest.OrderId}" Padding="10" Margin="0,0,0,20"/>
+                    <Button Content="Create Guest" Command="{Binding CreateGuestCommand}" Margin="10" Padding="10"/>
+                    <Button Content="Delete Guest" Command="{Binding DeleteGuestCommand}" Margin="10" Padding="10"/>
+                    <Button Content="Update Guest" Command="{Binding UpdateGuestCommand}" Margin="10" Padding="10"/>
+                </StackPanel>
+            </Grid>
+
+        </TabItem>
+
+    </TabControl>
+</Window>

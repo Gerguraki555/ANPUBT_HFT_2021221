@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZC7ADM_HFT_2021221.Data\ANPUBT_HFT_2021221.Data.csproj" />
+    <ProjectReference Include="..\ZC7ADM_HFT_2021221.Repository\ANPUBT_HFT_2021221.Repository.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+  </ItemGroup>
+
+</Project>

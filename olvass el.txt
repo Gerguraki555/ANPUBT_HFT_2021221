@@ -1,0 +1,1 @@
+A Haladó fejlesztési technikák féléves feladatomat egy régebbi félév során készítettem el. Sajnos felépítésében nagyon eltért attól a feladattípústól, amellyel dolgozni kell ebben a félévben, így elkértem a labortársam: Fogarasi Dániel (ZC7ADM) volt féléves feladatát és ahhoz építettem fel a wpf és js klienseket. Erről írtam emailt Duzmath Bálintnak.

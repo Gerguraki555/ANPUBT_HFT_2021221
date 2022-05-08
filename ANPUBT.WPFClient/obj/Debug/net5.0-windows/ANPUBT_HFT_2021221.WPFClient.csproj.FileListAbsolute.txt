@@ -1,0 +1,100 @@
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.exe
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.deps.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.runtimeconfig.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.runtimeconfig.dev.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ref\ANPUBT_HFT_2021221.WPFClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Features.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Toolkit.Mvvm.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Text.Json.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Threading.Channels.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.Models.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.Models.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.csprojAssemblyReference.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\App.g.cs
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient_MarkupCompile.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient_MarkupCompile.lref
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\MainWindow.baml
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.g.resources
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.AssemblyInfoInputs.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.AssemblyInfo.cs
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.csproj.CoreCompileInputs.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.csproj.CopyComplete
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ref\ANPUBT_HFT_2021221.WPFClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.genruntimeconfig.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.exe
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.deps.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.runtimeconfig.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.runtimeconfig.dev.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ref\ANPUBT_HFT_2021221.WPFClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.pdb
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Microsoft.Toolkit.Mvvm.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\System.Threading.Channels.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.Models.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\bin\Debug\net5.0-windows\ANPUBT_HFT_2021221.Models.pdb
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient_MarkupCompile.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient_MarkupCompile.lref
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.g.resources
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.AssemblyInfo.cs
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.csproj.CopyComplete
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ref\ANPUBT_HFT_2021221.WPFClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.pdb
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.WPFClient\obj\Debug\net5.0-windows\ANPUBT_HFT_2021221.WPFClient.genruntimeconfig.cache

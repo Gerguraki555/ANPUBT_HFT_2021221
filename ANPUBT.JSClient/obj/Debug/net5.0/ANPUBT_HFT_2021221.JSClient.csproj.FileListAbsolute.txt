@@ -1,0 +1,49 @@
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\appsettings.Development.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\appsettings.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.exe
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.deps.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.runtimeconfig.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.runtimeconfig.dev.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ref\ANPUBT_HFT_2021221.JSClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.csprojAssemblyReference.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.AssemblyInfoInputs.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.AssemblyInfo.cs
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.csproj.CoreCompileInputs.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.MvcApplicationPartsAssemblyInfo.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\staticwebassets\ANPUBT_HFT_2021221.JSClient.StaticWebAssets.Manifest.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\staticwebassets\ANPUBT_HFT_2021221.JSClient.StaticWebAssets.xml
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\scopedcss\bundle\ANPUBT_HFT_2021221.JSClient.styles.css
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.RazorTargetAssemblyInfo.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ref\ANPUBT_HFT_2021221.JSClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.genruntimeconfig.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\appsettings.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.exe
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.deps.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.runtimeconfig.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.runtimeconfig.dev.json
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ref\ANPUBT_HFT_2021221.JSClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.pdb
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.Models.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\bin\Debug\net5.0\ANPUBT_HFT_2021221.Models.pdb
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.AssemblyInfo.cs
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\staticwebassets\ANPUBT_HFT_2021221.JSClient.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\staticwebassets\ANPUBT_HFT_2021221.JSClient.StaticWebAssets.xml
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\scopedcss\bundle\ANPUBT_HFT_2021221.JSClient.styles.css
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.csproj.CopyComplete
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ref\ANPUBT_HFT_2021221.JSClient.dll
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.pdb
+C:\Users\pc\Desktop\ANPUBT_HFT_2021221.Client\ANPUBT.JSClient\obj\Debug\net5.0\ANPUBT_HFT_2021221.JSClient.genruntimeconfig.cache

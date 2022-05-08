@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDRLN3kNl2/Vf6e093GEo4GAp3i5capA+m2RZY890R9VNJQLsV5C65m9J1SylSf1sGODRxk0PtWiX4uwsaRYdg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\ANPUBT_HFT_2021221.Client\\ZC7ADM_HFT_2021221.Logic\\ANPUBT_HFT_2021221.Logic.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\pc\\Desktop\\ANPUBT_HFT_2021221.Client\\ZC7ADM_HFT_2021221.Repository\\ANPUBT_HFT_2021221.Repository.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\pc\\Desktop\\ANPUBT_HFT_2021221.Client\\ZC7ADM_HFT_2021221.Repository\\ANPUBT_HFT_2021221.Repository.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

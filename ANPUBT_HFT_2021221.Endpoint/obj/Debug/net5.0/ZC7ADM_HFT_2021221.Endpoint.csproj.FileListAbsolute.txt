@@ -1,0 +1,201 @@
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\appsettings.json
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.exe
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Database.mdf
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Database_log.ldf
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.deps.json
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.runtimeconfig.json
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ref\ZC7ADM_HFT_2021221.Endpoint.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Data.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Logic.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Models.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Repository.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Data.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Logic.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Models.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Repository.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\staticwebassets\ZC7ADM_HFT_2021221.Endpoint.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\staticwebassets\ZC7ADM_HFT_2021221.Endpoint.StaticWebAssets.xml
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\scopedcss\bundle\ZC7ADM_HFT_2021221.Endpoint.styles.css
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.CopyComplete
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ref\ZC7ADM_HFT_2021221.Endpoint.dll
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.pdb
+C:\Users\Dell\source\repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.genruntimeconfig.cache
+C:\Users\Dell\Source\Repos\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\appsettings.Development.json
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\appsettings.json
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.exe
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Database.mdf
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Database_log.ldf
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.deps.json
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.runtimeconfig.json
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.runtimeconfig.dev.json
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ref\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Castle.Core.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Data.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Logic.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Models.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Repository.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Data.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Logic.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Models.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Repository.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csprojAssemblyReference.cache
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.AssemblyInfoInputs.cache
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.AssemblyInfo.cs
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.CoreCompileInputs.cache
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.MvcApplicationPartsAssemblyInfo.cache
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\staticwebassets\ZC7ADM_HFT_2021221.Endpoint.StaticWebAssets.Manifest.cache
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\staticwebassets\ZC7ADM_HFT_2021221.Endpoint.StaticWebAssets.xml
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\scopedcss\bundle\ZC7ADM_HFT_2021221.Endpoint.styles.css
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.RazorTargetAssemblyInfo.cache
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.CopyComplete
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ref\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.pdb
+F:\6. Félév\Prog4\DaniVagyok2000\ZC7ADM_HFT_2021221\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.genruntimeconfig.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\appsettings.Development.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\appsettings.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.exe
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Database.mdf
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Database_log.ldf
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.deps.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.runtimeconfig.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.runtimeconfig.dev.json
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ref\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Castle.Core.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Data.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Logic.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Models.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Repository.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Data.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Logic.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Models.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\bin\Debug\net5.0\ZC7ADM_HFT_2021221.Repository.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csprojAssemblyReference.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.AssemblyInfoInputs.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.AssemblyInfo.cs
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.CoreCompileInputs.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.MvcApplicationPartsAssemblyInfo.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\staticwebassets\ZC7ADM_HFT_2021221.Endpoint.StaticWebAssets.Manifest.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\staticwebassets\ZC7ADM_HFT_2021221.Endpoint.StaticWebAssets.xml
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\scopedcss\bundle\ZC7ADM_HFT_2021221.Endpoint.styles.css
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.RazorTargetAssemblyInfo.cache
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.csproj.CopyComplete
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ref\ZC7ADM_HFT_2021221.Endpoint.dll
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.pdb
+F:\6. Félév\Prog4\Házifeladatok\Beadandó\ZC7ADM_HFT_2021221.Endpoint\obj\Debug\net5.0\ZC7ADM_HFT_2021221.Endpoint.genruntimeconfig.cache
